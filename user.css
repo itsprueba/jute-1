@@ -1,32 +1,10 @@
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
 
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-
-li a:hover {
-  background-color: #111;
-}
 .logout{
   float: right;
 }
 body{
-background-image: url(https://www.xmple.com/wallpaper/linear-blue-purple-gradient-highlight-1920x1080-c2-00008b-ff00ff-l-33-a-165-f-21.svg);
+background-image: url(https://github.com/ayushsatyam146/sihpics/blob/master/back.jpeg?raw=true);
+background-repeat: none;
 }
 
 .down{
@@ -37,7 +15,6 @@ background-image: url(https://www.xmple.com/wallpaper/linear-blue-purple-gradien
     text-align: center;
     
 }
-
 .button{
   border-radius: 50%;
 }
@@ -59,4 +36,40 @@ background-image: url(https://www.xmple.com/wallpaper/linear-blue-purple-gradien
     max-width: 600px;
   margin: auto;
 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #d6c4b0;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #c6af9d;
+}
+
+.logout{
+  float: right;
+}
+
+.headpic{
+  width: 1280px;
+  background-color: #d6c4b0;
 }
